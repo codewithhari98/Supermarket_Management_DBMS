@@ -1,1 +1,1 @@
-"# Supermarket_Management_DBMS" 
+This is a Supermarket Management System Application built for database management Course. The development of this project begins with prroblem definition,er diagram, relational mapping, sql queries for crud operations, and then finally a java and jsp mixed application to give the finish touch and turn a database management into a final interactive Application
